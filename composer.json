@@ -8,5 +8,8 @@
             "email": "pangou@live.cn"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "Pangou\\HelloWorld\\": "src" }
+    }
 }
