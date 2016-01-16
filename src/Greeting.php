@@ -4,7 +4,7 @@ namespace Pangou\HelloWorld;
 
 class Greeting
 {
-    public function static say() {
+    public static function say() {
         echo "hello world!!!";
     }
 }
