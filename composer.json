@@ -1,0 +1,12 @@
+{
+    "name": "pangou/hello-world",
+    "description": "this is a test repo for composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenchun0629",
+            "email": "pangou@live.cn"
+        }
+    ],
+    "require": {}
+}
